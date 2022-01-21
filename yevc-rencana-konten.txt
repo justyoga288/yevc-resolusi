@@ -3,7 +3,10 @@ RENCANA KONTEN YEVC
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Fundamental Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
